@@ -1,0 +1,26 @@
+Class,Teacher,Room,Day,Time
+Math,MrSmith,Room1,Monday,9:00 AM
+English,MsJohnson,Room2,Monday,10:30 AM
+Biology,MrJones,Room3,Monday,1:00 PM
+Physics,MrSmith,Room1,Wednesday,9:00 AM
+History,MsBrown,Room2,Wednesday,10:30 AM
+Chemistry,MrJones,Room3,Wednesday,1:00 PM
+ComputerScience,MsSmith,Room4,Monday,2:30 PM
+Literature,MsJohnson,Room2,Wednesday,2:30 PM
+PhysicalEducation,MrBrown,Room5,Monday,4:00 PM
+Art,MsWhite,Room6,Wednesday,4:00 PM
+Music,MrBlack,Room7,Monday,5:30 PM
+Geography,MsGreen,Room8,Wednesday,5:30 PM
+Programming,MrSmith,Room1,Thursday,9:00 AM
+Algebra,MsJohnson,Room2,Thursday,10:30 AM
+ChemicalEngineering,MrJones,Room3,Thursday,1:00 PM
+Robotics,MsSmith,Room4,Thursday,2:30 PM
+WorldHistory,MsBrown,Room2,Thursday,4:00 PM
+LiteraryAnalysis,MrJones,Room3,Thursday,5:30 PM
+PhysicalTraining,MrBrown,Room5,Friday,9:00 AM
+Painting,MsWhite,Room6,Friday,10:30 AM
+MusicTheory,MrBlack,Room7,Friday,1:00 PM
+EnvironmentalScience,MsGreen,Room8,Friday,2:30 PM
+AdvancedMath,MrSmith,Room1,Friday,4:00 PM
+Economics,MsJohnson,Room2,Friday,5:30 PM
+
