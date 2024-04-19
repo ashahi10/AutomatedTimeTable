@@ -1,4 +1,5 @@
 Automated Timetable Scheduling System
+
 • Developed a Python-based automated scheduling tool applying CSP and A.I. techniques, significantly streamlining
 timetable creation.
 
